@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 // import { getFirestore } from "firebase/firestore"; // Optional if you use Firestore
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBpU5ZQ_0d_jyWvlaZ7fxfJecV25z6Xu_c",
+  apiKey: "",
   authDomain: "attendoapp-527ee.firebaseapp.com",
   projectId: "attendoapp-527ee",
   storageBucket: "attendoapp-527ee.appspot.com",
